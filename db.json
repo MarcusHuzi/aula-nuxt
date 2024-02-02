@@ -1,0 +1,308 @@
+{
+    "events": [
+      {
+        "id": "1",
+        "title": "Beach Cleanup",
+        "date": "2019-01-03T21:54:00.000Z",
+        "time": "10:00",
+        "location": "Daytona Beach",
+        "description": "Let's clean up this beach.",
+        "organizer": "Adam Jahr",
+        "category": "sustainability",
+        "attendees": [
+          {
+            "id": "abc123",
+            "name": "Adam Jahr"
+          },
+          {
+            "id": "def456",
+            "name": "Gregg Pollack"
+          },
+          {
+            "id": "ghi789",
+            "name": "Beth Swanson"
+          },
+          {
+            "id": "jkl101",
+            "name": "Mary Gordon"
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "title": "Park Cleanup",
+        "date": "2019-01-03T21:54:00.000Z",
+        "time": "12:00",
+        "location": "132 N Magnolia Street, Orlando, Florida",
+        "description": "We're going to clean up this park.",
+        "organizer": "Adam Jahr",
+        "category": "nature",
+        "attendees": [
+          {
+            "id": "ghi789",
+            "name": "Beth Swanson"
+          },
+          {
+            "id": "jkl101",
+            "name": "Mary Gordon"
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "title": "Pet Adoption Day",
+        "date": "2019-01-03T21:54:00.000Z",
+        "time": "12:00",
+        "location": "132 N Magnolia Street, Orlando, Florida",
+        "description": "Help animals find new homes.",
+        "organizer": "Gregg Pollack",
+        "category": "animal welfare",
+        "attendees": [
+          {
+            "id": "abc123",
+            "name": "Adam Jahr"
+          },
+          {
+            "id": "ghi789",
+            "name": "Beth Swanson"
+          },
+          {
+            "id": "jkl101",
+            "name": "Mary Gordon"
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "title": "Disco Party",
+        "date": "2019-01-03T21:54:00.000Z",
+        "time": "10:00",
+        "location": "Daytona Beach",
+        "description": "Let's clean up this beach.",
+        "organizer": "Adam Jahr",
+        "category": "sustainability",
+        "attendees": [
+          {
+            "id": "abc123",
+            "name": "Adam Jahr"
+          },
+          {
+            "id": "def456",
+            "name": "Gregg Pollack"
+          },
+          {
+            "id": "ghi789",
+            "name": "Beth Swanson"
+          },
+          {
+            "id": "jkl101",
+            "name": "Mary Gordon"
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "title": "Vue Users Group",
+        "date": "2019-01-03T21:54:00.000Z",
+        "time": "12:00",
+        "location": "132 N Magnolia Street, Orlando, Florida",
+        "description": "We're going to clean up this park.",
+        "organizer": "Adam Jahr",
+        "category": "nature",
+        "attendees": [
+          {
+            "id": "ghi789",
+            "name": "Beth Swanson"
+          },
+          {
+            "id": "jkl101",
+            "name": "Mary Gordon"
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "title": "Orlando Dev Meetup",
+        "date": "2019-01-03T21:54:00.000Z",
+        "time": "12:00",
+        "location": "132 N Magnolia Street, Orlando, Florida",
+        "description": "Help animals find new homes.",
+        "organizer": "Gregg Pollack",
+        "category": "animal welfare",
+        "attendees": [
+          {
+            "id": "abc123",
+            "name": "Adam Jahr"
+          },
+          {
+            "id": "ghi789",
+            "name": "Beth Swanson"
+          },
+          {
+            "id": "jkl101",
+            "name": "Mary Gordon"
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "title": "Yoga Class",
+        "date": "2019-01-03T21:54:00.000Z",
+        "time": "10:00",
+        "location": "Daytona Beach",
+        "description": "Let's clean up this beach.",
+        "organizer": "Adam Jahr",
+        "category": "sustainability",
+        "attendees": [
+          {
+            "id": "abc123",
+            "name": "Adam Jahr"
+          },
+          {
+            "id": "def456",
+            "name": "Gregg Pollack"
+          },
+          {
+            "id": "ghi789",
+            "name": "Beth Swanson"
+          },
+          {
+            "id": "jkl101",
+            "name": "Mary Gordon"
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "title": "Breathing Meditation",
+        "date": "2024-02-01T14:12:00.000Z",
+        "time": "12:00",
+        "location": "132 N Magnolia Street, Orlando, Florida",
+        "description": "We're going to clean up this park.",
+        "organizer": "Adam Jahr",
+        "category": "nature",
+        "attendees": [
+          {
+            "id": "ghi789",
+            "name": "Beth Swanson"
+          },
+          {
+            "id": "jkl101",
+            "name": "Mary Gordon"
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "title": "Dancing Class",
+        "date": "2024-02-01T14:12:00.000Z",
+        "time": "12:00",
+        "location": "132 N Magnolia Street, Orlando, Florida",
+        "description": "Help animals find new homes.",
+        "organizer": "Gregg Pollack",
+        "category": "animal welfare",
+        "attendees": [
+          {
+            "id": "abc123",
+            "name": "Adam Jahr"
+          },
+          {
+            "id": "ghi789",
+            "name": "Beth Swanson"
+          },
+          {
+            "id": "jkl101",
+            "name": "Mary Gordon"
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "category": "animal welfare",
+        "organizer": {
+          "user": {
+            "id": "abc123",
+            "name": "Adam Jahr"
+          }
+        },
+        "title": "Gregg's Event",
+        "description": "We'll do stuff",
+        "location": "Your House",
+        "date": "2024-02-01T14:12:00.000Z",
+        "time": "5:00",
+        "attendees": []
+      },
+      {
+        "id": "11",
+        "category": "anismal welfare",
+        "organizer": {
+          "user": {
+            "id": "abc12s3",
+            "name": "Adasm Jahr"
+          }
+        },
+        "title": "Gregg's Evsent",
+        "description": "We'lsl do stuff",
+        "location": "Your Hosuse",
+        "date": "2024-02-01T14:12:00.000Z",
+        "time": "15:00",
+        "attendees": []
+      },
+      {
+        "id": "881270",
+        "category": "animal welfare",
+        "organizer": {
+          "id": "abc123",
+          "name": "Adam Jahr"
+        },
+        "title": "Oito",
+        "description": "Oito",
+        "location": "Oito",
+        "date": "2024-01-08T22:05:00.000Z",
+        "time": "8:00",
+        "attendees": []
+      },
+      {
+        "id": "576623",
+        "category": "nature",
+        "organizer": {
+          "id": "abc123",
+          "name": "Adam Jahr"
+        },
+        "title": "test",
+        "description": "test",
+        "location": "test",
+        "date": "2024-02-01T14:12:00.000Z",
+        "time": "12:00",
+        "attendees": []
+      },
+      {
+        "id": "511017",
+        "category": "animal welfare",
+        "organizer": {
+          "id": "abc123",
+          "name": "Adam Jahr"
+        },
+        "title": "dddd",
+        "description": "dddd",
+        "location": "dddd",
+        "date": "2024-02-01T17:28:00.000Z",
+        "time": "17:00",
+        "attendees": []
+      },
+      {
+        "id": "244215",
+        "category": "animal welfare",
+        "organizer": {
+          "id": "abc123",
+          "name": "Adam Jahr"
+        },
+        "title": "fffff",
+        "description": "fffff",
+        "location": "fffff",
+        "date": "2024-02-02T18:08:00.000Z",
+        "time": "20:00",
+        "attendees": []
+      }
+    ]
+}
